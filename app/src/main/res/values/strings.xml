@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Architecture Example</string>
+    <string name="initialPriorityLabel">1</string>
+    <string name="initialTitle">Title</string>
+    <string name="initialDescription">Description</string>
+    <string name="priorityTitle">Priority</string>
+</resources>
